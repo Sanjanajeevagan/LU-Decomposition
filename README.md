@@ -13,6 +13,7 @@ To write a program to find the LU Decomposition of a matrix.
 3. Solve LU decomposition using lu_solve() function.
 4. Print the value
 
+
 1. Import numpy
 2. From scipy.linalg import lu,lu_factor ,lu solve respectively
 3. Get the input matric values from user using eval
